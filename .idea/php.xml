@@ -240,6 +240,14 @@
       <path value="$PROJECT_DIR$/laravel11/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/laravel11/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/src/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/src/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/src/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/src/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/src/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/src/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/src/vendor/lcobucci/clock" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
@@ -249,7 +257,6 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/laravel11/phpunit.xml" custom_loader_path="$PROJECT_DIR$/laravel11/vendor/autoload.php" use_configuration_file="true" />
-      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/src/phpunit.xml" custom_loader_path="$PROJECT_DIR$/src/vendor/autoload.php" use_configuration_file="true" />
     </phpunit_settings>
   </component>
   <component name="PsalmOptionsConfiguration">
